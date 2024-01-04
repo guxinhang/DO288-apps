@@ -1,0 +1,12 @@
+/usr/local/etc/ocp4.config
+
+RHT_OCP4_MASTER_API=https://api.ocp4.example.com:6443/
+RHT_OCP4_WILDCARD_DOMAIN=apps.ocp4.example.com
+RHT_OCP4_NEXUS_SERVER=nexus-common.apps.ap410.prod.ole.redhat.com
+RHT_OCP4_MYSQL_SERVER=mysql.ocp-ap46a.prod.ole.redhat.com
+RHT_OCP4_DEV_USER=developer
+RHT_OCP4_DEV_PASSWORD=developer
+RHT_OCP4_GITHUB_USER=guxinhang
+RHT_OCP4_QUAY_USER=bruce_gu
+GIT_PASS=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
+QUAY_PASS=PCeWEisJRip4xelCgM0JgSQP8/JEUi/ctQVg/7Zg00r+gXSUJf9ASiqH4L/IMVYV
