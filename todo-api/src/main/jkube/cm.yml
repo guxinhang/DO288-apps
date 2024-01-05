@@ -5,5 +5,5 @@ metadata:
 data:
   DATABASE_USER: todoapp
   DATABASE_PASSWORD: redhat123
-  DATASE_SVC_HOSTNAME: tododb
+  DATABASE_SVC_HOSTNAME: tododb
   DATABASE_NAME: todo
